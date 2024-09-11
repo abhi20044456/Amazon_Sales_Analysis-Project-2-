@@ -1,3 +1,4 @@
+# Amazon_Sales_Analysis-Project-2
 Amazon Sales Data Analysis - Project 2
 Project Overview
 This project focuses on analyzing Amazon sales data to extract valuable business insights. It encompasses data loading, cleaning, exploratory data analysis (EDA), data transformation, statistical insights, and visualization using Python libraries like pandas, Matplotlib, and Seaborn.
